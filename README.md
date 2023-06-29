@@ -1,3 +1,1 @@
-My first readme
-My first readme
-My first readme
+ Task 3 done
